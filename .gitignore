@@ -1,0 +1,36 @@
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/
+
+# Xcode & Apple tools
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+
+# Built binaries & caches
+StockBar.app/Contents/MacOS/StockBar
+*.o
+*.pcm
+*.dSYM/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*~
